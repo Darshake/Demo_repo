@@ -11,3 +11,8 @@ Watch tutorieal on YouTube
 ## doing good 
 
 exiting stuff
+
+## Local Develop
+
+1. Open index.html
+
